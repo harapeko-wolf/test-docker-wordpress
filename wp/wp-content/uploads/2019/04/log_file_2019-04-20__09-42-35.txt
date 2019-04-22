@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: デモコンテンツ were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8080
+Data file = /var/www/html/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = /var/www/html/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = /var/www/html/wp-content/themes/sydney/demo-content/demo-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+---Importing widgets---
+サイドバー : 
+
+検索 - No Title - Widget already exists
+最近の投稿 - No Title - Widget already exists
+最近のコメント - No Title - Widget already exists
+アーカイブ - No Title - Widget already exists
+カテゴリー - No Title - Widget already exists
+メタ情報 - No Title - Widget already exists
+
+フッター1 : 
+
+動画 - No Title - Imported
+
+フッター2 : 
+
+テキスト - No Title - Imported
+
+フッター3 : 
+
+シドニー: 連絡先情報 - Get in touch - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
